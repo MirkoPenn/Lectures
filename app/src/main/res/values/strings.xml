@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lectures</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_lectures">Lectures</string>
+    <string name="title_recordings">Recordings</string>
+    <string name="title_subjects">Subjects</string>
+    <string name="title_activity_new_lecture">New Lecture</string>
+    <string name="action_newlecture">New lecture</string>
+</resources>
